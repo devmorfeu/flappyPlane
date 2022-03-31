@@ -1,0 +1,52 @@
+1 - Player
+	1.1 - importando as sprites do aviao
+	1.2 - Criar o objeto do avião, dar a sprite do avião para ele e coloca-lo na room
+	1.3 - Ao iniciar o game deve cair o aviao
+	1.4 - Subir ao apertar espaço
+	1.5 - Simulando a gravidade continua
+	1.6 - Limitando a velocidade de queda do aviao
+	1.7 - Reiniciando ao colidir com o obstaculo
+	1.8 - Criar efeito de fumaça ao subir
+	1.9 - Fazer a fumaça crescer e sumir aos poucos
+	1.10 - Reiniciar o jogo ao sair da tela
+	
+2 - Obstaculos
+	2.1 - Crias as sprites das montanhas
+	2.2 - Criar o objeto das montanhas
+	2.3 - Ajustar o espaço entre as montanhas
+	2.4 - Movendo as montanhas para esquerda
+	2.5 - Aumentar a velocidade dependendo do level
+
+3 - Geracao Procedural
+	3.1 - Criando um evento que repete
+	3.2 - Criando montanhas
+	3.3 - Alterando frequencia da criação das montanhas
+	3.4 - Alter a posição da montanha
+	3.5 - Ajustar o intervalo das montanhas ao level do jogo
+	
+4 - Background
+	4.1 - Criar sprite do background
+	4.2 - Colocando movimento no background
+	4.3 - Ajustar a velocidade do background dependendo do level
+	4.4 - Criar chao
+	
+5 - Sistema de pontos
+	5.1 - Sistemas de pontos
+	5.2 - Ganhando pontos
+	5.3 - Exibindo os pontos
+	5.4 - multiplicar os pontos pelo level atual
+	
+6 - Sistema de level
+	6.1 - Iniciando sistema de level
+	6.2 - Ganhar level
+	6.3 - Exibir o level
+	
+7 - Sons do jogo
+	7.1 - Importanto sons do jogo
+	7.2 - Tocar a musica
+	7.3 - Tocar a musica de level
+	
+8 - Tela inicial do jogo
+	8.1 - Criando a Room de tela inicial
+	8.2 - Criando a sprite de apresentação
+	8.3 - Criando a animação da sprite de apresentação
