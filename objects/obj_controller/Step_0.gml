@@ -13,4 +13,4 @@ if (pontos > proximo_level) {
 var background = layer_get_id("Background");
 var background_floor = layer_get_id("Background_floor");
 layer_hspeed(background, global.level * -1);
-layer_hspeed(background_floor, -4 - global.level);
+layer_hspeed(background_floor, - 3 - global.level);
